@@ -1,5 +1,5 @@
 
-# JCardensa Theme
+# JCardenas Theme
 
 I just did it... btw, i like dark theme... so it's dark :)
 
