@@ -6,8 +6,14 @@
     "publisher": "JCardenas",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Car-png/jcardenas-theme"
     },
+    "keywords": [
+        "j",
+        "jcardenas",
+        "j cardenas",
+        "cardenas"
+    ],
     "engines": {
         "vscode": "^1.62.0"
     },
