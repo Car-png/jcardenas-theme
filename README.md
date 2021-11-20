@@ -5,7 +5,7 @@ I just did it... btw, i like dark theme... so it's dark :)
 
 I took inspiration from the colors :v
 
-💥 If you like this [github repository](https://github.com/Car-png/jcardenas-theme)!
+If you like this [github repository](https://github.com/Car-png/jcardenas-theme)!
 
 May i'll make a little changes... maybe xd
 ## Some screenshots
