@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#415a39"
+        "foreground": "#558247"
       }
     },
     {
@@ -1010,7 +1010,7 @@
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#9D583B"
       }
     },
     {
