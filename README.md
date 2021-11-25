@@ -10,9 +10,15 @@ If you like this [github repository](https://github.com/Car-png/jcardenas-theme)
 May i'll make a little changes... maybe xd
 ## Some screenshots
 
-### Looks like this
+### Looks exactly like this
 
-![screenshot 1](https://i.ibb.co/QQHJcbs/screenshot-1.png)
-![screenshot 2](https://i.ibb.co/4gWgCVp/screenshot-2.png)
-![screenshot 3](https://i.ibb.co/DgRSFWr/screenshot-3.png)
-![screenshot 4](https://i.ibb.co/0C40Gc0/screenshot-4.png)
+#### Screnshot
+![screenshot 1](https://i.ibb.co/PmxpNHz/screenshot-36.png)
+#### Screnshot
+![screenshot 2](https://i.ibb.co/XJ7xFqh/screenshot-37.png)
+#### Screnshot
+![screenshot 3](https://i.ibb.co/yN6YL6H/screenshot-38.png)
+#### Screnshot
+![screenshot 4](https://i.ibb.co/nbLB9tQ/screenshot-39.png)
+#### Screnshot
+![screenshot 4](https://i.ibb.co/FzKry4y/screenshot-40.png)
