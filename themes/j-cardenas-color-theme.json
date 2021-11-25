@@ -109,7 +109,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#415a39"
+        "foreground": "#EF7482"
       }
     },
     {
@@ -755,9 +755,16 @@
     },
     {
       "name": "Integers",
+      "scope": "constant.numeric.css",
+      "settings": {
+        "foreground": "#9F9A9E"
+      }
+    },
+    {
+      "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#9d583b"
+        "foreground": "#9D583B"
       }
     },
     {
@@ -776,7 +783,7 @@
     },
     {
       "name": "Tags",
-      "scope": "entity.name.tag",
+      "scope": "entity.name.tag.html",
       "settings": {
         "foreground": "#7b2c32"
       }
@@ -808,7 +815,7 @@
       "name": "Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#89dddf"
+        "foreground": "#EF7482"
       }
     },
     {
@@ -829,7 +836,15 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#9F9A9E"
+        "foreground": "#9D583B"
+      }
+    },
+    {
+      "scope":[
+        "punctuation.section.property-list.end.bracket.curly.css"
+      ],
+      "settings": {
+        "foreground": "#796880"
       }
     },
     {
@@ -1786,6 +1801,14 @@
       }
     },
     {
+      "scope": [
+        "meta.brace"
+      ],
+      "settings": {
+        "foreground": "#5B77FF"
+      }
+    },
+    {
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
@@ -1845,7 +1868,7 @@
     }
   ],
   "colors": {
-    "foreground": "#38383880",
+    "foreground": "#757575",
     "focusBorder": "#404d64",
     "selection.background": "#514a5a64",
     "scrollbar.shadow": "#2f4b56",
@@ -1898,7 +1921,7 @@
     "menubar.selectionBackground": "#65397d1a",
     "menubar.selectionBorder": "#ffffff00",
     "menu.foreground": "#7a697d",
-    "menu.background": "#202124f0",
+    "menu.background": "#202124",
     "menu.selectionForeground": "#cccccc",
     "menu.selectionBackground": "#00ffb204",
     "menu.selectionBorder": "#3b00861c",
@@ -2079,7 +2102,7 @@
     "peekViewTitle.background": "#28292a",
     "peekViewTitleDescription.foreground": "#9b8686b3",
     "peekViewTitleLabel.foreground": "#867575",
-    "icon.foreground": "#38383880",
+    "icon.foreground": "#757575",
     "checkbox.background": "#292a2d",
     "checkbox.foreground": "#cccccc",
     "checkbox.border": "#ffffff00",
