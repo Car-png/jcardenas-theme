@@ -57,6 +57,12 @@
       }
     },
     {
+      "scope": "meta.property-value.css",
+      "settings": {
+        "foreground": "#9F9A9E"
+      }
+    },
+    {
       "name": "storage.modifier.lifetime.rust",
       "scope": "storage.modifier.lifetime.rust",
       "settings": {
@@ -1835,6 +1841,14 @@
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "css variable parameter",
+      "scope": "variable.parameter.css",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#9D583B"
       }
     },
     {
