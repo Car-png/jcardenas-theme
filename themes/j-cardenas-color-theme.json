@@ -1004,7 +1004,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#E2E4DE"
       }
     },
     {
@@ -1797,15 +1797,7 @@
         " meta.brace.square"
       ],
       "settings": {
-        "foreground": "#796880"
-      }
-    },
-    {
-      "scope": [
-        "meta.brace"
-      ],
-      "settings": {
-        "foreground": "#5B77FF"
+        "foreground": "#5975FF"
       }
     },
     {
