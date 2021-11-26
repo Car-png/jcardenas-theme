@@ -806,7 +806,7 @@
       "scope": "entity.other.attribute-name.id",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#1d5e7d"
+        "foreground": "#EF7482"
       }
     },
     {
@@ -814,7 +814,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#9d583b"
+        "foreground": "#EF7482"
       }
     },
     {
