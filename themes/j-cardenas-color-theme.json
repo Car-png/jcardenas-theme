@@ -307,7 +307,7 @@
       "name": "css comma",
       "scope": "punctuation.separator.list.comma.css",
       "settings": {
-        "foreground": "#89dddf"
+        "foreground": "#5B9394"
       }
     },
     {
@@ -342,7 +342,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#7b2c32"
+        "foreground": "#851B4C"
       }
     },
     {
@@ -418,7 +418,7 @@
       "name": "js dom variable",
       "scope": "support.variable.dom,support.variable.property.dom",
       "settings": {
-        "foreground": "#7b2c32"
+        "foreground": "#851B4C"
       }
     },
     {
@@ -551,7 +551,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#7b2c32"
+        "foreground": "#851B4C"
       }
     },
     {
@@ -707,7 +707,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#89dddf"
+        "foreground": "#796880"
       }
     },
     {
@@ -791,7 +791,7 @@
       "name": "Tags",
       "scope": "entity.name.tag.html",
       "settings": {
-        "foreground": "#7b2c32"
+        "foreground": "#851B4C"
       }
     },
     {
@@ -885,7 +885,7 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#7b2c32"
+        "foreground": "#851B4C"
       }
     },
     {
@@ -941,11 +941,10 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
       "scope": [
         "punctuation.definition.string.begin.markdown",
-        "punctuation.definition.string.end.markdown",
-        "punctuation.definition.metadata.markdown"
+        "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#7b2c32"
+        "foreground": "#219BF1"
       }
     },
     {
@@ -961,7 +960,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Link",
       "scope": "punctuation.definition.metadata.markdown",
       "settings": {
-        "foreground": "#7b2c32"
+        "foreground": "#E6B422"
       }
     },
     {
@@ -1199,7 +1198,7 @@
       "name": "php comparison",
       "scope": "keyword.operator.comparison.php",
       "settings": {
-        "foreground": "#89dddf"
+        "foreground": "#5B9394"
       }
     },
     {
@@ -1438,7 +1437,7 @@
         "keyword.operator.assignment"
       ],
       "settings": {
-        "foreground": "#89dddf"
+        "foreground": "#5B9394"
       }
     },
     {
@@ -1840,15 +1839,8 @@
       "name": "js/ts italic",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "css variable parameter",
-      "scope": "variable.parameter.css",
-      "settings": {
         "fontStyle": "italic",
-        "foreground": "#9D583B"
+        "foreground": "#851B4C"
       }
     },
     {
@@ -1952,8 +1944,8 @@
     "editorLineNumber.foreground": "#4c445670",
     "editorCursor.foreground": "#187171",
     "editorCursor.background": "#a9a6a6",
-    "editor.selectionBackground": "#53476220",
-    "editor.inactiveSelectionBackground": "#5347621c",
+    "editor.selectionBackground": "#5347623d",
+    "editor.inactiveSelectionBackground": "#5347622e",
     "editorWhitespace.foreground": "#ffffff00",
     "editor.selectionHighlightBackground": "#292a2d",
     "editor.selectionHighlightBorder": "#404d64",
